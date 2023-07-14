@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleaccountingSys", "SimpleaccountingSys.csproj", "{C18E30AF-FF34-42A3-A499-4B84D494C19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18E30AF-FF34-42A3-A499-4B84D494C19C}.Debug|x86.ActiveCfg = Debug|x86
+		{C18E30AF-FF34-42A3-A499-4B84D494C19C}.Debug|x86.Build.0 = Debug|x86
+		{C18E30AF-FF34-42A3-A499-4B84D494C19C}.Release|x86.ActiveCfg = Release|x86
+		{C18E30AF-FF34-42A3-A499-4B84D494C19C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B99E85-CD7B-4DDE-A95A-7CD80099D666}
+	EndGlobalSection
+EndGlobal
